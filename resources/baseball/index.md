@@ -18,7 +18,8 @@ published: true
 * [Baseball Prospectus](https://www.baseballprospectus.com/)
 
 ### Baseball Physics
-
+* [Alan Nathan's The Physics of Baseball](http://baseball.physics.illinois.edu/)
+* [Barton Smith's Baseball Aerodynamics](http://www.baseballaero.com/)
 
 **[⬆ back to top](#table-of-contents)**
 
