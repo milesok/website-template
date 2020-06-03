@@ -16,6 +16,7 @@ navbar-links:
   Projects: "projects"
   Posts:
     - Baseball: "posts/baseball"
+    - Blog: "posts/blog"
   Resources:
     - Baseball: "resources/baseball"
     - Not Baseball: "resources/notbaseball"
