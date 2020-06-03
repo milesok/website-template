@@ -4,13 +4,7 @@ title: Home Field Advantage in NCAA D1 Baseball
 output: html_notebook
 published: true
 ---
----
-layout: post
-title: Home Sweet Home
-subtitle: Home Field Advantage in NCAA Baseball
----
-
-One of the most important
+### One of the most important
 
 ```{r message=FALSE, warning=FALSE}
 require(tidyverse)
