@@ -2,7 +2,7 @@
 layout: post
 title: Home Field Advantage in NCAA D1 Baseball
 output: html_notebook
-published: false
+published: true
 ---
 ---
 layout: post
