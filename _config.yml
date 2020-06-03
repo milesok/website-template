@@ -14,9 +14,9 @@ author: Miles Okamoto
 navbar-links:
   About Me: "aboutme"
   Projects: "projects"
-  Posts: "posts"
+  Posts:
     - Baseball: "posts/baseball"
-  Resources: "resources"
+  Resources:
     - Baseball: "resources/baseball"
     - Not Baseball: "resources/notbaseball"
   Author's home: "https://github.com/milesok"
