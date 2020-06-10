@@ -14,7 +14,8 @@ date: '2019-07-18'
 Headers: \#\#\#Header (any number from 1 to 6)  
 _Italics_: \_italics\_  
 **bold**: \*\*bold\*\*  
-[links](milesok.github.io): \[link\]\(website.com\)  
+links: \[link\]\(website.com\)
+internal links: \[link\]\(#section\)
 pictures: \!\[picture name]\(picture address)
 >block quotes: \>quote text  
 * list: \* bullet text
