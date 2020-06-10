@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Non Baseball-Related Stuff
-subtitle:
+title: Non-Baseball Specific Resources
+subtitle: Documenting Stuff I'm Learning
 ---
 
