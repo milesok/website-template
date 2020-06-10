@@ -15,7 +15,7 @@ navbar-links:
   About Me: "aboutme"
   Projects: "projects"
   Posts:
-    - Baseball: "posts/baseball"
+    - BSBL: "posts/baseball"
     - Blog: "posts/blog"
   Resources:
     - Baseball: "resources/baseball"
