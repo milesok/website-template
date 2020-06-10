@@ -63,6 +63,12 @@ hr.small {
   border-color: inherit;
   border-radius: 0.1875rem;
 }
+.list-filters {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 18px;
+  margin-bottom: 30px;
+  text-align: center;
+}
 
 /* fix in-page anchors to not be behind fixed header */
 :target:before { 
