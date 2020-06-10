@@ -4,6 +4,9 @@ published: true
 title: Home Sweet Home
 subtitle: Examining Home Field Advantage in NCAA D1 Baseball
 date: '2019-07-25'
+tags:
+  - baseball
+  - ncaa
 ---
 ### The Idea
 
