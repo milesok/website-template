@@ -28,8 +28,11 @@
 - Between the World and Me
 - Inside the Empire
 - Stillness is the Key
+- Chop Wood Carry Water
+
 
 ## On My Radar
+- The Freedom of Self Forgetfulness
 - Helter Skelter (Manson Murders)
 - The 48 Laws of Power
 - Where Men Win Glory (Pat Tillman)
@@ -239,4 +242,4 @@
 - Good Economics for Hard Times
 - The Martian
 - Hyperbole and a Half
--
+- Boundaries (Henry Cloud)
