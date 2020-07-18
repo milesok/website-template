@@ -44,4 +44,10 @@ Side note I'm using [prose.io](prose.io) to edit markdown and easily save change
 ### Pages!
 Basically anything that's not a blog. The frontmatter 'permalink' variable allows us to override the link path. We can give it a string to define the path, or a pattern (e.g. /:categories/:year/:month/:day/:title). I made a ['/now' page](https://nownownow.com/about) to test this out which is now [here](https://milesok.github.io/now).
 
-That's about 
+That's about enough for one day. I have a site now though. Pretty cool.
+
+
+
+
+
+I lied I went and made a [404 page](https://milesok.github.io/404. Now I'm done.
